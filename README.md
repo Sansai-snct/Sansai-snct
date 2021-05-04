@@ -6,7 +6,7 @@
 # My skills
 ### Languages
 - C++
-- Swift(storyboard)
+- Swift
 - Python
 - Dart🔰
 
