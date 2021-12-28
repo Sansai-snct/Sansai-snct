@@ -8,6 +8,7 @@
 - C++
 - Swift
 - Python
-- Dart🔰
+- Javascript
+- Typescript
 
 
