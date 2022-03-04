@@ -9,5 +9,10 @@
     <img height="20" src="https://img.shields.io/github/followers/Sansai-snct?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sansai-snct)](https://github.com/Sansai-snct/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct)](https://github.com/Sansai-snct/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct&theme=gruvbox)](https://github.com/Sansai-snct/github-profile-trophy)
+[![](https://raw.githubusercontent.com/Sansai-snct/Sansaiーsnct/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Sansai-snct/Sansai-snct/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Sansai-snct/Sansai-snct/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
