@@ -16,7 +16,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sansai-snct&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct&theme=gruvbox)](https://github.com/Sansai-snct/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct)](https://github.com/Sansai-snct/github-profile-trophy)
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left">
