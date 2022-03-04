@@ -14,10 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sansai-snct&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct&theme=gruvbox)](https://github.com/Sansai-snct/github-profile-trophy)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sansai-snct&theme=vue)
+<h3 align="center">A passionate frontend developer </h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
