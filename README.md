@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct&theme=gruvbox)](https://github.com/Sansai-snct/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sansai-snct&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sansai-snct&theme=default)
