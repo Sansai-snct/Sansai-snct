@@ -9,14 +9,15 @@
     <img height="20" src="https://img.shields.io/github/followers/Sansai-snct?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sansai-snct&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sansai-snct&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct&theme=gruvbox)](https://github.com/Sansai-snct/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sansai-snct&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sansai-snct&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sansai-snct&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct)](https://github.com/Sansai-snct/github-profile-trophy)
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left">
