@@ -9,3 +9,5 @@
     <img height="20" src="https://img.shields.io/github/followers/Sansai-snct?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sansai-snct)](https://github.com/Sansai-snct/github-profile-trophy)
